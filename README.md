@@ -1,5 +1,3 @@
-# My Personal NeoVim Configuration
-
-## Based on MacOS M2 pro
+NeoVim Configuration
 
 ## Recomposed from https://github.com/LunarVim/Neovim-from-scratch.git
